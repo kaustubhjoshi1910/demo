@@ -1,0 +1,5 @@
+git init demo : To initialise a new git repository with the name of demo.
+
+git status: to check the status of files in the staging area.
+
+git add: To send a file to the staging area.

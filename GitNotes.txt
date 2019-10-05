@@ -11,3 +11,5 @@ git show/log : Obvious.
 git commit -m" Hey there " 
 
 git init . : Git bash here
+
+git commit -am" Modify and commit"

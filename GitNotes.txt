@@ -13,3 +13,7 @@ git commit -m" Hey there "
 git init . : Git bash here
 
 git commit -am" Modify and commit"
+
+git checkout --(name of file ) : Clear the changes from the area
+
+Some not so important commands : rename , ignoring some files and comparing

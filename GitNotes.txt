@@ -36,3 +36,7 @@ git remote add orgin (link) : Connecting local repo to github
 
 git push -u origin master --tags : First time pushing
 
+git push origin master : Any other time
+
+git clone (repo link ) : Cloning a repo
+

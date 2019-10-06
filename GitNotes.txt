@@ -16,9 +16,11 @@ git commit -am" Modify and commit"
 
 git checkout --(name of file ) : Clear the changes from the area
 
-Some not so useful commands : rename , ignoring some files and comparing
+Some not so good commands : rename , ignoring some files and comparing , rm
 
 git branch: To see which branch are we currently on 
+
+git branch -a : To see all the branches 
 
 git checkout -b (name of file) : create a new branch
 

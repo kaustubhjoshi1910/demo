@@ -34,5 +34,5 @@ git checkout -d (name of branch) : Deleting a branch
 
 git remote add orgin (link) : Connecting local repo to github
 
-git push -u origin master --tags
+git push -u origin master --tags : First time pushing
 

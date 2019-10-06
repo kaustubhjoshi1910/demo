@@ -40,3 +40,5 @@ git push origin master : Any other time
 
 git clone (repo link ) : Cloning a repo
 
+git pull : Changes that have been made in github
+
